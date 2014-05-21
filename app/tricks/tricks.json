@@ -1,0 +1,147 @@
+[
+  {
+        "age": 1,
+        "id": "tricks", 
+        "name": "The physical affects of stress - breathing rate and heart rate - are almost identical to the physical affects of courage.",
+        "snippet": "When your feeling stress from any situation immediately reframe it: your body is getting ready to be courageous, it is NOT feeling stress."
+  },
+  {
+        "age": 2,
+        "id": "feet1",
+        "name": "Pay attention to people's feet.",
+        "snippet": "If you approach two people in the middle of a conversation, and they only turn their torsos and not their feet, they don't want you to join in the conversation. Similarly if you are in a conversation with a coworker who you think is paying attention to you and their torso is turned towards you but their feet are facing in another direction, they want the conversation to end."
+  },
+
+    {
+        "age": 3, 
+        "id": "primacy1",
+        "name": "Primacy and recency: people most remember the first and last things to occur, and barely the middle.",
+        "snippet": "When scheduling an interview, ask what times the employer is interviewing and try to be first or last."
+  },
+  {
+        "age": 4, 
+        "id": "mirror",
+        "name": "If you work in a bar or in customer service of any kind...",
+        "snippet": "Put a mirror behind you at the counter. This way angry customers who approach you will have to see themselves in the mirror behind you and the chances of them behaving irrationally lowers significantly."
+  },
+  {
+        "age": 5, 
+        "id": "stop1",
+        "name": "Once you make the sales pitch, don't say anything else.",
+        "snippet": "This works in sales, but it can also be applied in other ways. My boss at an old job was training me and just giving me pointers. I was working at a gym trying to sell memberships. He told me that once I got all the small talk out of the way and presented the prices, that the first person to talk will lose. It didn't seem like a big deal but it actually worked. Often there were long periods of awkward silence as the person tried to come up with some excuse, but usually they bought."
+  },
+  {
+        "age": 6, 
+        "id": "wait1",
+        "name": "If you ask someone a question and they only partially answer, just wait.",
+        "snippet": "If you stay silent and keep eye contact they will usually continue talking."
+  },
+  {
+        "age": 7, 
+        "id": "gum",
+        "name": "Chew gum when you're approaching a situation that would make you nervous like public speaking or bungee jumping.",
+        "snippet": "If we are eating, something in our brain reasons 'I would not be eating if I were danger. So I'm not in danger'. Has helped calm me a few times."
+  },
+  {
+        "age": 8, 
+        "id": "feel1",
+        "name": "People will remember not what you said but how you made them feel.",
+        "snippet": "Also most people like talking about themselves so ask lots of questions about them."
+  },
+  {
+        "age": 9, 
+        "id": "learn1",
+        "name": "When you're learning something new, teach a friend about it. Let them ask questions.",
+        "snippet": "If you're able to teach something well, you understand it."
+  },
+  {
+        "age": 10,
+        "id": "", 
+        "name": "If you get yourself to be really happy and excited to see other people, they will react the same to you.",
+        "snippet": "It doesn't always happen the first time, but it will definitely happen next time."
+  },
+  {
+        "age": 11,
+        "id": "fake1", 
+        "name": "Fake it till you make it; confidence is more important than knowledge.",
+        "snippet": "Don't be intimidated by anyone, everyone is playing a role and wearing a mask."
+  },
+  {
+        "age": 12,
+        "id": "closest", 
+        "name": "When a group of people laugh, people will instinctively look at the person they feel closest to in that group.",
+        "snippet": "It is actuallu true! "
+  },
+  {
+        "age": 13,
+        "id": "mimicking", 
+        "name": "If you want to build rapport or gain someone's trust quickly, match their body posture and position.",
+        "snippet": "If someone is sitting with her legs crossed cross your legs. If they're leaning away from you mean away from them. If they're leaning towards you, lean towards them. Mirroring and matching body position is a subconscious way to tell if someone trusts you or is comfortable with you. If you're sitting with your arms crossed and you notice someone else is sitting with her arms crossed, that is a good indicator that you have/are successfully built/building rapport with that person."
+  },
+  {
+        "age": 14,
+        "id": "fake2", 
+        "name": "If you pretend to be something for long enough, you will eventually become it.",
+        "snippet": "That's how it actually happens"
+  },
+  {
+        "age": 15,
+        "id": "stare", 
+        "name": "Not to be creepy, but if you want to stare at someone unashamedly, look directly past them and wait for them to try and meet your eyes.",
+        "snippet": "When they fail to do that, they'll look around (usually nervously for a second) they won't look at you again for some time. This is your chance to straight up stare at this person for at least 45 seconds."
+  },
+  {
+        "age": 16,
+        "id": "network1", 
+        "name": "Build a network.",
+        "snippet": "Become their information source, and let them be yours. Even grabbing a beer with a former colleague once a year will keep you in the loop at the old office. Former coworkers might have gotten a new position in that office you always wanted to work in, great! Go to them for a beer, and ask about the office. It's all about connections and information."
+  },
+  {
+        "age": 17,
+        "id": "angry", 
+        "name": "If you are angry at the person in front of you driving like a grandmother...",
+        "snippet": "Pretend it is your grandmother, it will significantly reduce your road rage"
+  },
+  {
+        "age": 18,
+        "id": "straight", 
+        "name": "Stand up straight",
+        "snippet": "No slouching, hands out of pockets, and head held up high. It's not just a cliche -- you literally feel better and people around you feel more confident in you."
+  },
+  {
+        "age": 19,
+        "id": "confidence1",
+        "name": "Avoid saying \"I think,\" and \"I believe\" unless absolutely necessary.",
+        "snippet": "These are phrases that do not evoke confidence, and will literally do you no good."
+  },
+  {
+        "age": 20, 
+        "id": "clean1",
+        "name": "When feeling anxious, clean up your home or work space.",
+        "snippet": "You will feel happier and more accomplished than before."
+  },
+  {
+        "age": 21, 
+        "id": "generous",
+        "name": "Always buy the first pitcher or round of drinks.",
+        "snippet": "You'd be surprised how long you can drink on the phrase \"I bought the first one.\""
+  },
+  {
+        "age": 22, 
+        "id": "interview1",
+        "name": "Going into an interview...be interested in your interviewers.",
+        "snippet": "If you focus on learning about them you seem more interesting and dynamic. (Again, people love to talk about themselves.)"
+  },
+  {
+        "age": 23, 
+        "id": "kids1",
+        "name": "Pay Attention Parents: Always give your kid a choice that makes them think they are in control.",
+        "snippet": "For instance when I want him to put his shoes on I will say ,\"do you want to put your star wars shoes on or your shark shoes on?\"\nPro-tip: In some cases, this works on adults."
+  },
+  {
+        "age": 24, 
+        "id": "actions1",
+        "name": "Your action affect your attitudes more than your attitudes affect your actions.",
+        "snippet": "As my former teacher said \"you can jump and dance FOR joy, but you can also jump and dance yourself joyful.\""
+  }
+]
