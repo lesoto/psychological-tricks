@@ -1,49 +1,71 @@
 {
   "name": "psychological-tricks",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "AngularJS app",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
   "dependencies": {
     "express": "^4.3.0",
-    "gzippo": "^0.2.0",
-    "logfmt": "^1.1.2",
-    "morgan": "~1.1.1"
-  },
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-autoprefixer": "~0.4.0",
-    "grunt-bower-install": "~1.0.0",
-    "grunt-concurrent": "~0.5.0",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-compass": "~0.7.2",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-connect": "~0.5.0",
-    "grunt-contrib-copy": "~0.4.1",
-    "grunt-contrib-cssmin": "~0.7.0",
-    "grunt-contrib-htmlmin": "~0.1.3",
-    "grunt-contrib-imagemin": "~0.3.0",
-    "grunt-contrib-jshint": "~0.7.1",
-    "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-watch": "~0.5.2",
-    "grunt-google-cdn": "~0.2.0",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^0.4.2",
+    "grunt-bower-install": "^1.0.2",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-concat": "^0.3.0",
+    "grunt-contrib-connect": "^0.5.0",
+    "grunt-contrib-copy": "^0.4.1",
+    "grunt-contrib-cssmin": "^0.7.0",
+    "grunt-contrib-htmlmin": "^0.1.3",
+    "grunt-contrib-imagemin": "^0.3.0",
+    "grunt-contrib-jshint": "^0.7.2",
+    "grunt-contrib-uglify": "^0.2.7",
+    "grunt-contrib-watch": "^0.5.3",
+    "grunt-google-cdn": "^0.2.2",
     "grunt-karma": "^0.8.3",
-    "grunt-newer": "~0.6.1",
-    "grunt-ngmin": "~0.0.2",
-    "grunt-rev": "~0.1.0",
-    "grunt-svgmin": "~0.2.0",
-    "grunt-usemin": "~2.0.0",
-    "jshint-stylish": "~0.1.3",
+    "grunt-newer": "^0.6.1",
+    "grunt-ngmin": "^0.0.3",
+    "grunt-rev": "^0.1.0",
+    "grunt-svgmin": "^0.2.1",
+    "grunt-usemin": "^2.0.2",
+    "gzippo": "^0.2.0",
+    "http-proxy": "^1.1.4",
+    "js-yaml": "^3.0.2",
+    "jshint-stylish": "^0.1.5",
     "karma": "^0.12.16",
     "karma-chrome-launcher": "^0.1.3",
     "karma-jasmine": "^0.1.5",
     "karma-ng-html2js-preprocessor": "^0.1.0",
     "karma-ng-scenario": "^0.1.0",
-    "load-grunt-tasks": "~0.4.0",
-    "time-grunt": "~0.2.1"
-  },
+    "load-grunt-tasks": "^0.4.0",
+    "logfmt": "^1.1.2",
+    "morgan": "^1.1.1",
+    "ngmin": "^0.5.0",
+    "time-grunt": "^0.2.10"
+  },  
   "engines": {
     "node": ">=0.10.0",
     "npm": "1.1.9"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lesoto/psychological-tricks.git"
+  },
+  "keywords": [
+    "Localized",
+    "AngularJS",
+    "Bootstrap"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lesoto/psychological-tricks/issues"
+  },
+  "homepage": "https://github.com/lesoto/psychological-tricks"
 }
